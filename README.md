@@ -43,8 +43,3 @@ The 27,468 rows contain 84 countries and 327 weekly observations per country. No
 - Mean petrol price is lower in higher subsidy categories in this dataset. The comparison does not isolate subsidy effects from other country differences.
 
 No new source columns or calculated fields are added. The data has no household spending or purchasing-power measures, so it cannot directly measure affordability. The unit for Brent crude is not specified in the source and should be confirmed before reporting as USD/barrel.
-
-## Publishing and limits
-The Tableau workbook is local and has not been published to Tableau Public. The optional Tableau embed requires dashboard and Story URLs from a published workbook. The local Flask charts work from the CSV independently. The dataset is historical weekly data, not a live real-time feed. The project folder is ready for you to add to Git when you choose.
-
-
